@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Austin",
+    "lmiPercentage": 47.2,
+    "population": 961855,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Bartlett",
+    "lmiPercentage": 56.2,
+    "population": 1633,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Bastrop",
+    "lmiPercentage": 46.2,
+    "population": 9688,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Bear Creek",
+    "lmiPercentage": 28.3,
+    "population": 397,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Bee Cave",
+    "lmiPercentage": 28.0,
+    "population": 9144,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Bertram",
+    "lmiPercentage": 33.2,
+    "population": 1616,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Blanco",
+    "lmiPercentage": 40.7,
+    "population": 1682,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Briarcliff",
+    "lmiPercentage": 21.4,
+    "population": 2062,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Buda",
+    "lmiPercentage": 36.7,
+    "population": 15108,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Burnet",
+    "lmiPercentage": 29.1,
+    "population": 6436,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Cedar Park",
+    "lmiPercentage": 27.8,
+    "population": 77595,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Cottonwood Shores",
+    "lmiPercentage": 64.7,
+    "population": 1403,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Coupland",
+    "lmiPercentage": 21.3,
+    "population": 289,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Creedmoor",
+    "lmiPercentage": 70.6,
+    "population": 458,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Double Horn",
+    "lmiPercentage": null,
+    "population": 0,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Dripping Springs",
+    "lmiPercentage": 40.1,
+    "population": 4650,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Elgin",
+    "lmiPercentage": 50.5,
+    "population": 9784,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Florence",
+    "lmiPercentage": 65.0,
+    "population": 1171,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Georgetown",
+    "lmiPercentage": 42.5,
+    "population": 67176,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Giddings",
+    "lmiPercentage": 56.9,
+    "population": 4969,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Granger",
+    "lmiPercentage": 69.5,
+    "population": 1183,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Granite Shoals",
+    "lmiPercentage": 61.6,
+    "population": 5129,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Hays",
+    "lmiPercentage": 32.1,
+    "population": 227,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Highland Haven",
+    "lmiPercentage": 31.6,
+    "population": 418,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Horseshoe Bay",
+    "lmiPercentage": 28.6,
+    "population": 4257,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Hutto",
+    "lmiPercentage": 40.0,
+    "population": 27577,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Jarrell",
+    "lmiPercentage": 31.3,
+    "population": 1753,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Johnson City",
+    "lmiPercentage": 49.6,
+    "population": 1627,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Jonestown",
+    "lmiPercentage": 37.5,
+    "population": 2365,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Kyle",
+    "lmiPercentage": 48.0,
+    "population": 45697,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Lago Vista",
+    "lmiPercentage": 35.9,
+    "population": 8896,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Lakeway",
+    "lmiPercentage": 16.2,
+    "population": 19189,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Leander",
+    "lmiPercentage": 34.2,
+    "population": 59202,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Lexington",
+    "lmiPercentage": 37.7,
+    "population": 1217,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Liberty Hill",
+    "lmiPercentage": 71.2,
+    "population": 3646,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Llano",
+    "lmiPercentage": 47.2,
+    "population": 3325,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Lockhart",
+    "lmiPercentage": 56.7,
+    "population": 14379,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Luling",
+    "lmiPercentage": 64.1,
+    "population": 5599,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Manor",
+    "lmiPercentage": 44.2,
+    "population": 13652,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Marble Falls",
+    "lmiPercentage": 42.6,
+    "population": 7037,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Martindale",
+    "lmiPercentage": 48.1,
+    "population": 1253,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Meadowlakes",
+    "lmiPercentage": 19.8,
+    "population": 1907,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Mountain City",
+    "lmiPercentage": 15.9,
+    "population": 622,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Mustang Ridge",
+    "lmiPercentage": 52.0,
+    "population": 944,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Niederwald",
+    "lmiPercentage": 60.8,
+    "population": 668,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Pflugerville",
+    "lmiPercentage": 34.9,
+    "population": 65191,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Point Venture",
+    "lmiPercentage": 34.6,
+    "population": 1260,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Rollingwood",
+    "lmiPercentage": 7.5,
+    "population": 1467,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Round Mountain",
+    "lmiPercentage": 34.5,
+    "population": 101,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Round Rock",
+    "lmiPercentage": 37.4,
+    "population": 119468,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "San Leanna",
+    "lmiPercentage": 13.9,
+    "population": 522,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "San Marcos",
+    "lmiPercentage": 76.9,
+    "population": 67553,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Smithville",
+    "lmiPercentage": 49.6,
+    "population": 3922,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Sunrise Beach Village",
+    "lmiPercentage": 22.1,
+    "population": 739,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Sunset Valley",
+    "lmiPercentage": 18.3,
+    "population": 683,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Taylor",
+    "lmiPercentage": 64.2,
+    "population": 16267,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "The Hills",
+    "lmiPercentage": 14.2,
+    "population": 2613,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Thrall",
+    "lmiPercentage": 63.9,
+    "population": 816,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Uhland",
+    "lmiPercentage": 71.5,
+    "population": 1588,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Volente",
+    "lmiPercentage": 31.4,
+    "population": 561,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Webberville",
+    "lmiPercentage": 68.4,
+    "population": 394,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Weir",
+    "lmiPercentage": 71.2,
+    "population": 699,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "West Lake Hills",
+    "lmiPercentage": 7.9,
+    "population": 3444,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Wimberley",
+    "lmiPercentage": 39.5,
+    "population": 2839,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Woodcreek",
+    "lmiPercentage": 41.9,
+    "population": 1770,
+    "jurisdictionType": "city"
+  },
+  {
+    "name": "Bastrop County",
+    "lmiPercentage": 48.0,
+    "population": 97216,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Blanco County",
+    "lmiPercentage": 32.0,
+    "population": 11374,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Burnet County",
+    "lmiPercentage": 38.0,
+    "population": 49130,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Caldwell County",
+    "lmiPercentage": 59.0,
+    "population": 45883,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Hays County",
+    "lmiPercentage": 50.0,
+    "population": 241067,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Lee County",
+    "lmiPercentage": 36.0,
+    "population": 17478,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Llano County",
+    "lmiPercentage": 35.0,
+    "population": 21243,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Travis County",
+    "lmiPercentage": 44.0,
+    "population": 1290188,
+    "jurisdictionType": "county"
+  },
+  {
+    "name": "Williamson County",
+    "lmiPercentage": 36.0,
+    "population": 609017,
+    "jurisdictionType": "county"
+  }
+]
